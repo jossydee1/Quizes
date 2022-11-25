@@ -7,6 +7,7 @@ import Quiz5 from "./Components/Quiz5";
 import Quiz6 from "./Components/Quiz6";
 import Quiz7 from "./Components/Quiz7";
 import Quiz8 from "./Components/Quiz8";
+import Quiz9 from "./Components/Quiz9";
 
 function App() {
 	return (
@@ -19,6 +20,7 @@ function App() {
 			{/* <Quiz6 /> */}
 			{/* <Quiz7 /> */}
 			<Quiz8 />
+			<Quiz9 />
 		</div>
 	);
 }
