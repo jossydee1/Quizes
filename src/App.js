@@ -2,6 +2,7 @@ import "./App.css";
 import Quiz1 from "./Components/Quiz1";
 import Quiz10 from "./Components/Quiz10";
 import Quiz11 from "./Components/Quiz11";
+import Quiz12 from "./Components/Quiz12";
 import Quiz2 from "./Components/Quiz2";
 import Quiz3 from "./Components/Quiz3";
 import Quiz4 from "./Components/Quiz4";
@@ -21,10 +22,11 @@ function App() {
       {/* <Quiz5 /> */}
       {/* <Quiz6 /> */}
       {/* <Quiz7 /> */}
-      <Quiz8 />
-      <Quiz9 />
-		  <Quiz10 />
-		  <Quiz11 />
+      {/* <Quiz8 /> */}
+      {/* <Quiz9 /> */}
+      {/* <Quiz10 /> */}
+		  {/* <Quiz11 /> */}
+		  <Quiz12 />
     </div>
   );
 }
