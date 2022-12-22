@@ -9,6 +9,7 @@ import Quiz15 from "./Components/Quiz15";
 import Quiz16 from "./Components/Quiz16";
 import Quiz17 from "./Components/Quiz17";
 import Quiz18 from "./Components/Quiz18";
+import Quiz19 from "./Components/Quiz19";
 import Quiz2 from "./Components/Quiz2";
 import Quiz3 from "./Components/Quiz3";
 import Quiz4 from "./Components/Quiz4";
@@ -38,7 +39,8 @@ function App() {
       {/* <Quiz15 /> */}
       {/* <Quiz16 /> */}
       {/* <Quiz17 /> */}
-      <Quiz18 />
+      {/* <Quiz18 /> */}
+      <Quiz19 />
     </div>
   );
 }
